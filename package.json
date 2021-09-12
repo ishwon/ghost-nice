@@ -1,0 +1,28 @@
+{
+    "name": "nice",
+    "description": "A simple black & white theme for clutter-free reading.",
+    "version": "0.1.0",
+    "engines": {
+        "ghost-api": "v3"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Ish Sookun",
+        "email": "ish.sookun@lasentinelle.mu"
+    },
+    "gpm": {
+        "type": "theme",
+        "categories": [
+            "Minimal"
+        ]
+    },
+    "keywords": [
+        "ghost",
+        "theme",
+        "ghost-theme"
+    ],
+    "config": {
+        "posts_per_page": 9,
+        "image_sizes": {}
+    }
+}
