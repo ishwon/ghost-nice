@@ -3,7 +3,8 @@
     "description": "A simple black & white theme for clutter-free reading.",
     "version": "0.1.0",
     "engines": {
-        "ghost-api": "v3"
+        "ghost": ">=4.0.0",
+        "ghost-api": "v4"
     },
     "license": "MIT",
     "author": {
