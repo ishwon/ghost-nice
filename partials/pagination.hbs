@@ -10,12 +10,12 @@
     </div>
     <div class="flex-1 flex justify-between sm:justify-end">
     {{#if prev}}
-    <a href="{{page_url prev}}" class="relative inline-flex items-center px-4 py-2 border border-gray-300 text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50">
+    <a href="{{page_url prev}}" class="relative inline-flex items-center px-4 py-2 border border-gray-300 text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 transition ease-in-out duration-300">
       Newer Posts
     </a>
     {{/if}}
     {{#if next}}
-    <a href="{{page_url next}}" class="ml-3 relative inline-flex items-center px-4 py-2 border border-gray-300 text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50">
+    <a href="{{page_url next}}" class="ml-3 relative inline-flex items-center px-4 py-2 border border-gray-300 text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 transition ease-in-out duration-300">
       Older Posts
     </a>
     {{/if}}
