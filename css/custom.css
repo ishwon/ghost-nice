@@ -9,3 +9,7 @@ figure figcaption {
     font-family: 'Courier New', Courier, monospace;
 	font-size: 9px;
 }
+
+.lato {
+    font-family: Lato, sans-serif;
+}
