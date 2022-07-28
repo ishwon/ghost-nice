@@ -1,14 +1,14 @@
 {
     "name": "nice",
-    "description": "A simple black & white theme for clutter-free reading.",
-    "version": "0.1.0",
+    "description": "A simple theme for my own personal use.",
+    "version": "1.0.1",
     "engines": {
         "ghost": ">=4.0.0"
     },
     "license": "MIT",
     "author": {
         "name": "Ish Sookun",
-        "email": "ish.sookun@lasentinelle.mu"
+        "email": "ish@sysadmin-journal.com"
     },
     "gpm": {
         "type": "theme",
