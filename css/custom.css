@@ -1,0 +1,11 @@
+figure {
+	display: inline-block;
+}
+figure img {
+	vertical-align: top;
+}
+figure figcaption {
+	text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+	font-size: 9px;
+}
