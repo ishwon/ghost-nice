@@ -10,6 +10,16 @@ figure figcaption {
 	font-size: 9px;
 }
 
+code {
+    background-color: #e5e7eb;
+    display: inline-flex;
+    padding-top: 0.125rem;
+    padding-bottom: 0.125rem;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    border-radius: 0.25rem;
+}
+
 .lato {
     font-family: Lato, sans-serif;
 }
