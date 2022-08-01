@@ -20,6 +20,11 @@ code {
     border-radius: 0.25rem;
 }
 
+blockquote {
+    font-size: 21px;
+    line-height: 110%;
+}
+
 .lato {
     font-family: Lato, sans-serif;
 }
