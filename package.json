@@ -1,7 +1,7 @@
 {
     "name": "nice",
-    "description": "A simple theme for my own personal use.",
-    "version": "1.0.1",
+    "description": "A simple theme for my personal use.",
+    "version": "1.0.2",
     "engines": {
         "ghost": ">=4.0.0"
     },
